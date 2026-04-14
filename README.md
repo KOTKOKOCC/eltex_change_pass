@@ -147,7 +147,8 @@ python3 eltex_mes_telnet_changer_v1.2.py
 
 # Eltex MES Telnet Password Changer
 
-Russian | English
+
+[🇷🇺 Русский](#russian) | [🇺🇸 English](#english)
 
 ## Project Description
 
