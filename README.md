@@ -259,8 +259,7 @@ Before using the script, make sure you understand the risks of storing passwords
 
 ---
 
-### Support the Project
+### 💖 Support the Project
 
 You can support the development of this and my other projects using the link below:
-**Details and cards (KOTKOKOCC)**
-
+👉 **[Details and cards (KOTKOKOCC)](https://github.com/KOTKOKOCC/KOTKOKOCC)**
