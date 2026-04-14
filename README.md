@@ -140,7 +140,7 @@ python3 eltex_mes_telnet_changer_v1.2.py
 ---
 ### 💖 Поддержать проект / Support the project
 Вы можете поддержать разработку этого и других моих проектов по ссылке:
-👉 **[Реквизиты и карты (KOTKOKOCC)](https://github.com/KOTKOKOCC/KOTKOKOCC)**
+👉 **[Реквизиты и карты](https://github.com/KOTKOKOCC/KOTKOKOCC)**
 
 
 <a name="english"></a>
@@ -263,4 +263,4 @@ Before using the script, make sure you understand the risks of storing passwords
 ### 💖 Support the Project
 
 You can support the development of this and my other projects using the link below:
-👉 **[Details and cards (KOTKOKOCC)](https://github.com/KOTKOKOCC/KOTKOKOCC)**
+👉 **[Details and cards](https://github.com/KOTKOKOCC/KOTKOKOCC)**
